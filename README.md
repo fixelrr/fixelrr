@@ -50,7 +50,7 @@ img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.c
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="raj__rr's GitHub Stats" src="https://github-readme-stats.raj__rr.vercel.app/api?username=rajrr214&show_icons=true&hide_border=true" />
+  <img align="left" alt="raj__rr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rajrr214&show_icons=true&hide_border=true" />
 
 </details>
 
