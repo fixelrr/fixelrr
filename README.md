@@ -47,12 +47,6 @@ img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wi
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rajrr214&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: http://thebhagwa.ml
 [twitter]: https://twitter.com/raj__rr
