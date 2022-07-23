@@ -5,8 +5,8 @@
 ## I'm a Student,  and  Developer,!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 Learning Website Development Using Visual Studio / C# .NET
+- 🥅 Software Developer In Smart Dust Technologies 
 - ⚡ Fun fact: I love to Listn Song and play Games
 
 
@@ -44,7 +44,6 @@
 
 </details>
 
-[website]: http://thebhagwa.ml
 [twitter]: https://twitter.com/raj__rr
 [instagram]: https://instagram.com/raj__rr
 
